@@ -1,4 +1,4 @@
-#Este programa sirve para saber quien es mayor de doscpersonas y por cuanto
+#Este programa sirve para saber quien es mayor de dos personas y por cuanto
 #Aquí tomamos los datos del usuario:
 #Nombre y edad de la primera persona:
 print("Este programa sirve para calcular la diferencia de edad de dos personas")
