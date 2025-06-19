@@ -28,3 +28,5 @@ if edad1 > edad2:
 	print(nom1 + " es mayor a " + nom2)
 if edad1 < edad2:
 	print(nom2 + " es mayor a " + nom1)
+
+#Se agregó un nuevo comentario
